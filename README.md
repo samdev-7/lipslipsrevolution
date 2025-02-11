@@ -1,6 +1,6 @@
 # LipsLips Revolution
 > [!NOTE]  
-> This was a group project for Hack the North 2024. The following description is adapted from our [Devpost listing](https://devpost.com/software/lipslips-revolution). 
+> This was a group project for Hack the North 2024. This fork has an updated description adapted from our [Devpost listing](https://devpost.com/software/lipslips-revolution). 
 
 **The demo link is currently broken as dependencies have changed since the event, but this demo video demonstrates it really well!**  
 ➡️➡️ [Demo Video](https://youtu.be/C_vZ8xYM-pw) ⬅️⬅️
